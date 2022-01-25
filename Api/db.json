@@ -1,0 +1,43 @@
+{
+  "streams": [
+    {
+      "title": "Sohaib",
+      "description": "Phenominal",
+      "id": 1
+    },
+    {
+      "title": "React APP",
+      "description": "BABAY HERE WE GO",
+      "id": 2
+    },
+    {
+      "title": "Chal Mra Putt",
+      "description": "Tajammal Amin father said so",
+      "userId": null,
+      "id": 3
+    },
+    {
+      "title": "Chal Mra Putt",
+      "description": "Tajammal Amin father said so",
+      "userId": null,
+      "id": 4
+    },
+    {
+      "title": "Chal Mra Putt",
+      "description": "Tajammal Amin father said so",
+      "userId": null,
+      "id": 5
+    },
+    {
+      "title": " The State of Burewala",
+      "description": "City of education ",
+      "id": 6
+    },
+    {
+      "title": "Refactor ho gya",
+      "description": "bass kr ja yawrr",
+      "userId": "116224911172934734539",
+      "id": 8
+    }
+  ]
+}
